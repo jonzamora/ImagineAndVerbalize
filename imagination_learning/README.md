@@ -1,12 +1,12 @@
 # Imagination 💭 Module for Generative Commonsense Reasoning
 
 ## Training
-Excute run.sh under scripts folder.
+Execute `run.sh` under scripts folder.
 
-We provide a sub set sampled from the complete skg datasets as the original files are too large.
+We provide a subset sampled from the complete skg datasets, as the original files are too large.
 
 ## Inference
-Excute evaluate.sh under scripts folder.
+Execute `evaluate.sh` under scripts folder.
 
 This is for obtaining silver-standard SKGs of downstream datasets.
 
