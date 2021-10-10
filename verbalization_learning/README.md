@@ -1,4 +1,4 @@
-# Verbalization Module for Generative Commonsense Reasoning
+# Verbalization 🗣 Module for Generative Commonsense Reasoning
 
 ## Key command line arguments to specify task/method
 

@@ -1,4 +1,4 @@
-# IMAGINATION Module for Generative Commonsense Reasoning
+# Imagination 💭 Module for Generative Commonsense Reasoning
 
 ## Training
 Excute run.sh under scripts folder.
